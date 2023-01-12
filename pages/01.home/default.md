@@ -2,8 +2,8 @@
 title: Home
 body_classes: 'title-center title-h1h2'
 access:
-    site.login: true
-    admin.login: true
+    site.login: false
+    admin.login: false
 ---
 
 # Say Hello to Grav!
